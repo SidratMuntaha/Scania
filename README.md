@@ -5,7 +5,7 @@ The vehicles can be used within many areas, for example to transport people and 
 
 ## Requirements
 
-- All stories to be completed with an appropriate level of testing.
+- All stories to be completed with an appropriate level of unit testing.
 - No actual database implementation is required, feel free to stub it out.
 - Your code should trend towards being SOLID.
 - Please Fork the [Scania](https://github.com/Hjelm11/Scania) repository, complete the tasks as you see fit.
