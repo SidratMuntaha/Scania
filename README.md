@@ -8,7 +8,7 @@ The vehicles can be used within many areas, for example to transport people and 
 - All stories to be completed with an appropriate level of testing.
 - No actual database implementation is required, feel free to stub it out.
 - Your code should trend towards being SOLID.
-- Please Fork the [a link](https://github.com/Hjelm11/Scania) repository, complete the tasks as you see fit.
+- Please Fork the [Scania](https://github.com/Hjelm11/Scania) repository, complete the tasks as you see fit.
 - When you are done create a pull request with your solution.
 
 ## Technical Requirements
