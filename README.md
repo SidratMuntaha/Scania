@@ -1,6 +1,7 @@
 # Coding for Scania
 
-Scania is a solution provider when it comes to transport in all forms and the vehicles that we produce add sell are Truck and Buses. To be able to transport different types of materials and people.
+Scania is a solution provider when it comes to transportation, mainly trucks and buses. 
+The vehicles can be used within many areas, for example to transport people and different kinds of materials.
 
 ## Requirements
 
@@ -22,23 +23,23 @@ Scania is a solution provider when it comes to transport in all forms and the ve
 
 As a Salesman
 
-I would like to be able to add new vehicles
+I want to be able to add new vehicles
 
 So that I will be able to sell different types of transport solutions
 
 ### Acceptance criteria:
 
-Be able to add new vehicles
+When I add a new vehicle it should be saved
 
-And set properties:
+Follow properties should be included:
 
-_Color_
+- _Color_
 
-_Engine_
+- _Engine_
 
-_Weight_
+- _Weight_
 
-_Price_
+- _Price_
 
 Feel free to add more properties
 
