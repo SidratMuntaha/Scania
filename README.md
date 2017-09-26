@@ -1,11 +1,83 @@
 # Coding for Scania
 
-This is just a small assignment for you to do so that we have some code to discuss around during your interview at Scania.
+Scania is a solution provider when it comes to transport in all forms and the vehicles that we produce add sell are Truck and Buses. To be able to transport different types of materials and people.
 
-1. Clone the repository
-2. Create a Web API Service that returns data of Trucks (You dont need to setup a database you can stub the data)
-3. Call this service with AngularJS and present the returned data in a web browser
-4. Add a search function that can return data for a specific Truck
-5. The data should be presented in the web browser
+## Requirements
 
-The solution should be built using C#, AngularJS (Angular 1 to be clear) and should also contain unit tests. 
+- All stories to be completed with an appropriate level of testing.
+- No actual database implementation is required, feel free to stub it out.
+- Your code should trend towards being SOLID.
+- Please Fork the Scania repository, complete the tasks as you see fit.
+- When you are done create a pull request with your solution.
+
+## Technical Requirements
+
+- IDE - Visual Studio
+
+[https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Professional&amp;rel=15#](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Professional&amp;rel=15#)
+
+- AngularJS (Angular 1 to be clear)
+
+##  Story 1
+
+As a Salesman
+
+I would like to be able to add new vehicles
+
+So that I will be able to sell different types of transport solutions
+
+### Acceptance criteria:
+
+Be able to add new vehicles
+
+And set properties:
+
+_Color_
+
+_Engine_
+
+_Weight_
+
+_Price_
+
+Feel free to add more properties
+
+## Story 2
+
+As a Salesman
+
+I want to be able to see all my existing vehicles
+
+So that I see all the transport solutions I&#39;m able to sell
+
+### Acceptance criteria:
+
+It should be possible to navigate to another page that shows a list of vehicles
+
+## Story 3
+
+As a Salesman
+
+I would like to delete or alter an existing vehicles
+
+So that I can manage my transport solutions
+
+### Acceptance criteria:
+
+When I delete a vehicle it should be removed from list
+
+When I alter a vehicle the property/properties should be updated
+
+## Story 4
+
+As a Salesman
+
+I would like to be able to search among my existing vehicles
+
+So that I can find specific ones
+
+### Acceptance criteria:
+
+When I search for a specific vehicle type (Bus/Truck) all vehicle with that vehicle type should be visible
+
+When I search for a specific property all the vehicles with that property value should be visible
